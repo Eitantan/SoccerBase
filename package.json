@@ -1,0 +1,23 @@
+{
+  "name": "SoccerBase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eitantan/SoccerBase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eitantan/SoccerBase/issues"
+  },
+  "homepage": "https://github.com/Eitantan/SoccerBase#readme",
+  "dependencies": {
+    "replpersist": "^1.0.9"
+  }
+}
