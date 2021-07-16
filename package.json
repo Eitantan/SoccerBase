@@ -1,23 +1,24 @@
 {
   "name": "SoccerBase",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "A place where you can access soccer stats.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo Working fine."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eitantan/SoccerBase.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eitan Alperstein",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eitantan/SoccerBase/issues"
   },
   "homepage": "https://github.com/Eitantan/SoccerBase#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "replpersist": "^1.0.9"
   }
 }

@@ -1,2 +1,2 @@
 const Database = require("replpersist");
-let soccerbasedb = new Database("soccerbasedb", {});
+let soccerbasedb = new Database("soccerbasedb");
