@@ -101,7 +101,16 @@ soccerbasedb.add("france", "croatia", "July 2018", "5 - 3", [
 } ], "Luzhniki Stadium in Moscow");
 console.log(soccerbasedb.data)
 
+const express = require('express')
+const app = express()
 
+app.use(express.static('public'))
+
+app.get('/', (req, res) => {
+  
+})
+
+app.listen(3000, () => {})
 
 
 
